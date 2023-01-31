@@ -102,3 +102,6 @@ The code is released under the [MIT license](LICENSE?raw=true).
 ---------------------------------------
 
 Please feel free to send me some feedback or questions!
+
+
+https://www.linkedin.com/pulse/securing-rest-apis-amazon-cognito-spring-boot-part-1-hamza-tariq
